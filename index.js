@@ -1,8 +1,8 @@
 $(document).ready(function () {
   var timeDataArray = [],
-    accXDataArray = [],     //temperatureData
-    accYDataArray = [],     //humidityData
-    accZDataArray = [];     
+    accXDataArray = [],     //CoGasData
+    //accYDataArray = [],     //humidityData
+    //accZDataArray = [];     
   var data = {
     labels: timeDataArray,
     datasets: [
